@@ -7,16 +7,16 @@
 </h1>
 
 <p align="center">
-<a href="mailto:akshit.105013@stu.upes.ac.in">
+<a href="mailto:akshitbhutani1904@gmail.com" target="_blank" rel="noopener noreferrer">
   <img height="50" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/akshit-bhutani-456471245/">
+<a href="https://www.linkedin.com/in/akshit-bhutani-456471245/" target="_blank" rel="noopener noreferrer">
   <img height="50" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/akshit-bhutani-19">
+<a href="https://github.com/akshit-bhutani-19" target="_blank" rel="noopener noreferrer">
   <img height="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/akshit_bhutani19/">
+<a href="https://leetcode.com/u/akshit_bhutani19/" target="_blank" rel="noopener noreferrer">
   <img height="50" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
